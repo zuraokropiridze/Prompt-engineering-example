@@ -1,1 +1,1 @@
-# Prompt-engineering-example
+Prompt Engineering 101 is a dark-themed educational interface built with HTML and CSS that introduces the basics of effective communication with AI. The project presents the core prompt structure Persona, Context, Task, and Constraint using visual cards, icons, and a clear example prompt. It focuses on clean UI design, readability, and structured learning, making it suitable for practice, documentation, or portfolio use. The project is frontend-only and can be extended with interactive features in the future.
